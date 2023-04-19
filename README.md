@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello, I'm Kyle Starrett 👋
+I'm a React developer with 6 years of experience in building modern web applications. I'm passionate about developing elegant and efficient solutions that solve real-world problems.
 
-<!--
-**kylestarrett1/kylestarrett1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+React
+Redux
+JavaScript
+HTML
+CSS
+Work Experience
+On Services (Mid-level React Developer, 2018 - Present)
+Education
+Associates in Computer Science from Grossmont, 2019
+Contact Me
+Email: kylestarrett1@gmail.com
+LinkedIn: [https://www.linkedin.com/in/kylestarrett/]
