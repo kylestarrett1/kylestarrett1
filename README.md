@@ -1,4 +1,4 @@
-## Hello, I'm Kyle Starrett 👋
+# Hello, I'm Kyle Starrett 👋
 I'm a React developer with 6 years of experience in building modern web applications. I'm passionate about developing elegant and efficient solutions that solve real-world problems.
 
 ### Skills
