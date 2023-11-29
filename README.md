@@ -7,6 +7,8 @@ I'm a Full-Stack developer with 7 years of experience in building modern web/mob
   - Redux
   - Node.js
   - Express
+  - GraphQL
+  - TypeScript
   - JavaScript
   - MongoDB
   - PostgreSQL
@@ -14,6 +16,9 @@ I'm a Full-Stack developer with 7 years of experience in building modern web/mob
   - CSS
   - Sass
   - Tailwind
+  - Jest/Mocha
+  - Webpack
+  - Vite
 
 ### Work Experience
   - Yavanna.io (Lead Developer, 2023 - Present)
