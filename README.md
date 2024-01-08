@@ -22,7 +22,7 @@ I'm a Full-Stack developer with 7 years of experience in building modern web/mob
 
 ### Work Experience
   - Yavanna.io (Lead Developer, 2023 - Present)
-  - On Services (Mid-level Backend Developer, 2018 - 2023)
+  - On Services (Full Stack Developer, 2018 - 2023)
 ### Education
   - Computer Science and Information Systems from Grossmont, 2021
 ### Contact Me
