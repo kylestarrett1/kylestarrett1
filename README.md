@@ -6,6 +6,7 @@ I'm a Full-Stack developer with 7 years of experience in building modern web/mob
   - React Native
   - Spring Boot
   - Kafka
+  - ASP.NET
   - Node.js
   - Express
   - GraphQL
