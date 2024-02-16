@@ -4,7 +4,8 @@ I'm a Full-Stack developer with 7 years of experience in building modern web/mob
 ### Skills
   - React
   - React Native
-  - Redux
+  - Spring Boot
+  - Kafka
   - Node.js
   - Express
   - GraphQL
@@ -12,6 +13,10 @@ I'm a Full-Stack developer with 7 years of experience in building modern web/mob
   - JavaScript
   - MongoDB
   - PostgreSQL
+  - T-SQL
+  - AWS
+  - Azure
+  - jQuery
   - HTML
   - CSS
   - Sass
